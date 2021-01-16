@@ -491,7 +491,7 @@ Vue.component('page-content', {
                     slidesURL: ''
                 },
                 {
-                    name: 'Understanding Dijkstra; Implementing Heaps',
+                    name: 'Understanding Dijkstra\'s Algorithm',
                     handoutURL: '',
                     out: '03/31',
                     slidesName: 'Slides',
